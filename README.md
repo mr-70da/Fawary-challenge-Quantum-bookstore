@@ -17,5 +17,6 @@ Provide mechanism for catching unexpected error:
 - Buying more than available stock
 - Buying ebooks with wrong quantity
 - Trying to buy a Showcase / Demo book
-- Searching for unknown ISBNs
+- Searching for unknown ISBNs.
+
 Developed by Mahmoud Ayman Ramdan mahmoudsebeai@gmail.com
